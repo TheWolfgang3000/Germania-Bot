@@ -1,0 +1,781 @@
+{
+    "1251502921414344774": {
+        "logChannelId": "1398812707548827789",
+        "welcomeChannelId": "1251573047471767702",
+        "welcomeMessage": "{user} has joined {server}.",
+        "leaveMessage": "{username} ist ein Volksverräter!",
+        "levelingEnabled": true,
+        "levelRoles": {
+            "1": "1251573149431234611",
+            "3": "1251573147329757214",
+            "6": "1251573145224347729",
+            "10": "1251573143479390310",
+            "15": "1251573122889551964",
+            "20": "1251573120482152490",
+            "25": "1251573118896701642",
+            "30": "1251573116782776351",
+            "35": "1251573115058786425",
+            "40": "1251573112596729907"
+        },
+        "user-913198016717025312": {
+            "xp": 314,
+            "level": 4,
+            "achievements": {
+                "FIRST_MESSAGE": true,
+                "ONE_YEAR_VETERAN": true,
+                "FIRST_SONG": true,
+                "KRIEGSVERBRECHER": true,
+                "WALL_OF_TEXT": true,
+                "FIRST_REACTION": true,
+                "VC_FIRST_JOIN": true,
+                "PLAYLIST_PRO": true,
+                "QUEUE_STARTER": true,
+                "QUEUE_MASTER": true,
+                "LINK_SHARER": true
+            },
+            "achievementCounters": {
+                "messageCount": 103,
+                "questionsAsked": 5,
+                "dailyStreak": 1,
+                "lastMessageTimestamp": 1754673228678,
+                "reactionsGiven": 3,
+                "vcJoinTime": 1754445316696,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [
+                    1754673694287,
+                    1754673935460,
+                    1754674014211,
+                    1754674068365,
+                    1754674089474,
+                    1754674267301,
+                    1754674488640,
+                    1754674503722,
+                    1754674659934,
+                    1754675656152
+                ],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 2,
+                "commandUsage": {
+                    "total": 22,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 3,
+                    "back": 0,
+                    "stop": 5,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 4,
+                "linkCounter": 10,
+                "hiCounter": 0,
+                "winkCounter": 1,
+                "errorWordCounter": 2,
+                "dbmWordCounter": 2,
+                "testWordCounter": 0,
+                "botWordCounter": 11,
+                "songsPlayed": 47,
+                "vcJoins": 1
+            }
+        },
+        "levelingChannelId": "1263214272326930432",
+        "globalCrossMessageChannelId": "1401279291660042392",
+        "user-1112826294770614382": {
+            "xp": 63,
+            "level": 1,
+            "achievements": {
+                "VC_FIRST_JOIN": true,
+                "FIRST_MESSAGE": true,
+                "SELF_REPLY": true,
+                "FIRST_SONG": true,
+                "VC_TIME_1H": true,
+                "FIRST_REACTION": true,
+                "LINK_SHARER": true,
+                "WALL_OF_TEXT": true,
+                "VC_MARATHON_2H": true,
+                "VC_TIME_10H": true,
+                "VC_TIME_50H": true
+            },
+            "achievementCounters": {
+                "messageCount": 34,
+                "questionsAsked": 0,
+                "dailyStreak": 1,
+                "lastMessageTimestamp": 1754673741396,
+                "reactionsGiven": 4,
+                "vcJoinTime": 1754674637114,
+                "totalVcTime": 209259430,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [
+                    1754476834091,
+                    1754480403496,
+                    1754673741533,
+                    1754674062932,
+                    1754674088123,
+                    1754674092260,
+                    1754674159503,
+                    1754674560417,
+                    1754674756623,
+                    1754675423268
+                ],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 29,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 4,
+                    "back": 0,
+                    "stop": 1,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 21,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 18,
+                "vcJoins": 10
+            }
+        },
+        "user-534721332479393803": {
+            "xp": 44,
+            "level": 0,
+            "achievements": {
+                "VC_FIRST_JOIN": true
+            },
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": 1754680742880,
+                "totalVcTime": 36973,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 1
+            }
+        },
+        "user-810803699399131136": {
+            "xp": 99,
+            "level": 1,
+            "achievements": {
+                "VC_FIRST_JOIN": true,
+                "FIRST_MESSAGE": true,
+                "VC_MARATHON_2H": true,
+                "VC_MARATHON_4H": true,
+                "VC_TIME_1H": true,
+                "VC_TIME_10H": true,
+                "VC_TIME_50H": true
+            },
+            "achievementCounters": {
+                "messageCount": 3,
+                "questionsAsked": 1,
+                "dailyStreak": 1,
+                "lastMessageTimestamp": 1754410532948,
+                "reactionsGiven": 0,
+                "vcJoinTime": 1754682962438,
+                "totalVcTime": 292247772,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 1,
+                    "back": 0,
+                    "stop": 1,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 2
+            }
+        },
+        "user-719265990147571792": {
+            "xp": 14,
+            "level": 1,
+            "achievements": {
+                "FIRST_MESSAGE": true,
+                "FIRST_REACTION": true
+            },
+            "achievementCounters": {
+                "messageCount": 11,
+                "questionsAsked": 2,
+                "dailyStreak": 1,
+                "lastMessageTimestamp": 1754419288693,
+                "reactionsGiven": 1,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [
+                    1754419345649,
+                    1754419394172,
+                    1754419420976,
+                    1754419432690,
+                    1754419443385,
+                    1754419498215,
+                    1754419618755,
+                    1754419634570,
+                    1754419673137,
+                    1754419793617
+                ],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 1,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        },
+        "user-1350056381444657253": {
+            "xp": 17,
+            "level": 0
+        },
+        "user-850134804468072448": {
+            "xp": 72,
+            "level": 0
+        },
+        "linkedChannels": {
+            "1401279291660042392": {
+                "type": "global"
+            }
+        },
+        "commandChannelId": "1251573029218025533",
+        "user-1279713816157880336": {
+            "xp": 33,
+            "level": 0
+        },
+        "user-939983838526976052": {
+            "xp": 185,
+            "level": 2,
+            "achievements": {
+                "VC_FIRST_JOIN": true
+            },
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": 1754434083378,
+                "totalVcTime": 4957,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 1
+            }
+        },
+        "user-279271391075762176": {
+            "xp": 37,
+            "level": 0
+        },
+        "achievementsEnabled": true,
+        "achievementsChannelId": "1402052509618405406",
+        "user-1251724702833967175": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        },
+        "user-718100512444252231": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {
+                "VC_FIRST_JOIN": true
+            },
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": 1754419941431,
+                "totalVcTime": 3397087,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 1
+            }
+        },
+        "user-556404788628160512": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {
+                "FIRST_MESSAGE": true,
+                "FIRST_REACTION": true,
+                "NOW_PLAYING_USER": true,
+                "PIONEER": true,
+                "RAPID_FIRE": true,
+                "BOT_USER": true,
+                "LONE_WOLF": true,
+                "PING_PONG_MASTER": true,
+                "IDENTITY_CRISIS": true,
+                "SELF_LOVE": true,
+                "NIGHT_OWL": true
+            },
+            "achievementCounters": {
+                "messageCount": 127,
+                "questionsAsked": 0,
+                "dailyStreak": 2,
+                "lastMessageTimestamp": 1754439765005,
+                "reactionsGiven": 3,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [
+                    1754422990494,
+                    1754422992322,
+                    1754423135394,
+                    1754423283380,
+                    1754423289103,
+                    1754423503867,
+                    1754423517598,
+                    1754423554625,
+                    1754426451961,
+                    1754439765579
+                ],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 106,
+                    "ping": 100,
+                    "np": 1,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 1,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 2,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        }
+    },
+    "1088312935580962906": {
+        "globalCrossMessageChannelId": "1088312936386273402",
+        "linkedChannels": {
+            "1401614710394064988": {
+                "type": "private",
+                "linkName": "testlink1"
+            }
+        },
+        "user-913198016717025312": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 3,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        }
+    },
+    "1283057162863771740": {
+        "globalCrossMessageChannelId": "1346064323440807967",
+        "linkedChannels": {
+            "1346064323440807967": {
+                "type": "global"
+            }
+        },
+        "user-913198016717025312": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        },
+        "user-279646773171978241": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        }
+    },
+    "1401337486482870334": {
+        "globalCrossMessageChannelId": "1401337628950921290",
+        "linkedChannels": {
+            "1401337628950921290": {
+                "type": "global"
+            }
+        },
+        "user-556404788628160512": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 1,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        }
+    },
+    "1366467904538677400": {
+        "linkedChannels": {
+            "1402085149469839410": {
+                "type": "global"
+            }
+        }
+    },
+    "pioneerAchievementUnlocked_ping": true,
+    "1269606306730348667": {
+        "user-1112826294770614382": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 0,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        }
+    },
+    "1400599416330522624": {
+        "user-1117611976605048902": {
+            "xp": 0,
+            "level": 0,
+            "achievements": {},
+            "achievementCounters": {
+                "messageCount": 0,
+                "questionsAsked": 0,
+                "dailyStreak": 0,
+                "lastMessageTimestamp": null,
+                "reactionsGiven": 0,
+                "vcJoinTime": null,
+                "totalVcTime": 0,
+                "longestVcSession": 0,
+                "consecutiveMessageCounter": 0,
+                "lastMessageTimestamps": [],
+                "coffeeCounter": 0,
+                "pingsGiven": 0,
+                "sexCounter": 0,
+                "commandUsage": {
+                    "total": 4,
+                    "ping": 0,
+                    "np": 0,
+                    "loop": 0,
+                    "skip": 0,
+                    "back": 0,
+                    "stop": 0,
+                    "shuffle": 0
+                },
+                "playlistWordCounter": 0,
+                "linkCounter": 0,
+                "hiCounter": 0,
+                "winkCounter": 0,
+                "errorWordCounter": 0,
+                "dbmWordCounter": 0,
+                "testWordCounter": 0,
+                "botWordCounter": 0,
+                "songsPlayed": 0,
+                "vcJoins": 0
+            }
+        }
+    }
+}
